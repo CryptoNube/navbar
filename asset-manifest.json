@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "//cryptonube.github.io/navbar/static/css/main.06702a8c.chunk.css",
+    "main.js": "//cryptonube.github.io/navbar/static/js/main.a7b4abfd.chunk.js",
+    "main.js.map": "//cryptonube.github.io/navbar/static/js/main.a7b4abfd.chunk.js.map",
+    "runtime-main.js": "//cryptonube.github.io/navbar/static/js/runtime-main.b589f26d.js",
+    "runtime-main.js.map": "//cryptonube.github.io/navbar/static/js/runtime-main.b589f26d.js.map",
+    "static/js/2.90fc6222.chunk.js": "//cryptonube.github.io/navbar/static/js/2.90fc6222.chunk.js",
+    "static/js/2.90fc6222.chunk.js.map": "//cryptonube.github.io/navbar/static/js/2.90fc6222.chunk.js.map",
+    "index.html": "//cryptonube.github.io/navbar/index.html",
+    "static/css/main.06702a8c.chunk.css.map": "//cryptonube.github.io/navbar/static/css/main.06702a8c.chunk.css.map",
+    "static/js/2.90fc6222.chunk.js.LICENSE.txt": "//cryptonube.github.io/navbar/static/js/2.90fc6222.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b589f26d.js",
+    "static/js/2.90fc6222.chunk.js",
+    "static/css/main.06702a8c.chunk.css",
+    "static/js/main.a7b4abfd.chunk.js"
+  ]
+}
